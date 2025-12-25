@@ -1,0 +1,5 @@
+[2025-07-16 13:33:40] http://ijbe.org.ng
+[2025-07-16 13:33:40] [Notice] Task process started.
+[2025-07-16 13:33:40] [Notice] File /var/www/ijbe/journalfiles/usageStats/processing/usage_events_20250715.log was moved to dispatch folder.
+[2025-07-16 13:33:40] [Notice] The background jobs that will process the log files and store the statistics data have been dispatched.
+[2025-07-16 13:33:40] [Notice] Task process stopped.

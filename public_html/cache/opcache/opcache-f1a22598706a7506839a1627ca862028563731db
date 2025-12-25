@@ -1,0 +1,19 @@
+<?php $exp = 1775563963; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=1; plural=0;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.paymethod.paypal.displayName' => 'Paypal支付費用',
+      'plugins.paymethod.paypal.description' => '費用會透過Paypal服務支付。',
+      'plugins.paymethod.paypal' => 'Paypal支付費用',
+      'plugins.paymethod.paypal.settings' => 'Paypal支付設定',
+      'plugins.paymethod.paypal.settings.testMode' => '測試模式',
+      'plugins.paymethod.paypal.settings.accountName' => '戶口名稱',
+      'plugins.paymethod.paypal.settings.clientId' => '客戶ID',
+      'plugins.paymethod.paypal.settings.secret' => '加密',
+      'plugins.paymethod.paypal.error' => '交易出現錯誤。詳情請聯絡期刊管理員。',
+    ),
+  ),
+);

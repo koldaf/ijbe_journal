@@ -1,0 +1,20 @@
+<?php $exp = 1775563963; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=1; plural=0;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.paymethod.manual.displayName' => '手動付款',
+      'plugins.paymethod.manual.description' => '管理員會手動紀錄用戶付款的帳單（在此程式外）。',
+      'plugins.paymethod.manual' => '手動付款',
+      'plugins.paymethod.manual.settings' => '手動繳費指引',
+      'plugins.paymethod.manual.sendNotificationOfPayment' => '發出付款通知',
+      'plugins.paymethod.manual.paymentNotification' => '付款通知訊息',
+      'plugins.paymethod.manual.notificationSent' => '已發出付款通知訊息',
+      'plugins.paymethod.manual.purchase.title' => '標題',
+      'plugins.paymethod.manual.purchase.fee' => '費用',
+      'plugins.paymethod.manual.manualPaymentNotify.name' => '手動付款通知',
+    ),
+  ),
+);

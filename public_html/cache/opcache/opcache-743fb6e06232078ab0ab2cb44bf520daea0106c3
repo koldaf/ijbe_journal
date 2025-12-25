@@ -1,0 +1,9 @@
+<?php $exp = 1775563963; $val = array (
+  'application' => 'orcidProfile',
+  'class' => 'OrcidProfilePlugin',
+  'type' => 'plugins.generic',
+  'release' => '1.3.4.8',
+  'date' => '2023-10-31',
+  'lazy-load' => 1,
+  'sitewide' => 0,
+);

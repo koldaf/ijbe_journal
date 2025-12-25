@@ -1,0 +1,14 @@
+<?php $exp = 1775563963; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=1; plural=0;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.reports.subscriptions.displayName' => '訂閱報告',
+      'plugins.reports.subscriptions.description' => '此插件輸出載有訂閱列表及相關資訊的CSV報告。',
+      'plugins.reports.subscriptions.institutionMailingAddress' => '院校郵寄地址',
+      'plugins.reports.subscriptions.ipRanges' => 'IP範圍',
+    ),
+  ),
+);

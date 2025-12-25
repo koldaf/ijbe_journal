@@ -1,0 +1,19 @@
+<?php $exp = 1775563963; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=1; plural=0;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.block.subscription.displayName' => '訂閱欄',
+      'plugins.block.subscription.description' => '此插件支援在側邊欄的提供訂閱資訊。',
+      'plugins.block.subscription.blockTitle' => '訂閱',
+      'plugins.block.subscription.expires' => '過期',
+      'plugins.block.subscription.comingFromIP' => '從{$ip}取用內容',
+      'plugins.block.subscription.about' => '訂閱',
+      'plugins.block.subscription.loginToVerifySubscription' => '登入以讀取僅限訂閱讀者的內容。',
+      'plugins.block.subscription.subscriptionRequired' => '需要訂閱以讀取部分內容。',
+      'plugins.block.subscription.subscriptionRequired.learnMore' => '更多資訊',
+    ),
+  ),
+);
